@@ -24,5 +24,5 @@ I intended the script to be turned into either an Application (macOS) or an Exec
 1. Download the AppleScript version of EventCodeInfo and move the file to your preferred directory
 2. Open the script with the Script Editor application
 3. Select File->Export
-4. Change the type from "Script" to "Application"
+4. Change the type from "Script" to "Application" and save the file
 5. Control-click the ".app" file and add to dock
