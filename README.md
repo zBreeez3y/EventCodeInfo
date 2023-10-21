@@ -5,7 +5,7 @@ This script gives you a quick and easy way to pull up the details on an Event ID
   - I haven't found a suitable source for Installer logs yet, so for now I'm just having the script pull up the Microsoft documentation on it which displays all the codes on a single page. Due to this, the way to jump to the ID you're looking for would be to search the page for it. I didn't want to allow the script to interact with your browser any further than just loading the webpage, so for now it will just load that page and you scroll to find the code. It's not that many anyways :)
 
 #### Note
-I intended the script to be turned into either an Application (macOS) or an Executable (Windows) using Pyinstaller so I could pin it to my Dock/Taskbar and use it at the click of a button, so I have provided instructions on converting the scripts below
+I intended the script to be turned into either an Application (macOS) or an Executable (Windows using Pyinstaller) so I could pin it to my Dock/Taskbar and use it at the click of a button, so I have provided instructions on converting the scripts below
 
 ## Installation
 ### Windows
