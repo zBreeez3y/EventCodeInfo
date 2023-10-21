@@ -10,7 +10,6 @@ I intended the script to be turned into either an Application (macOS) or an Exec
 ## Installation
 ### Windows
 1. Download the Python3 version of EventCodeInfo and move the file to your preferred directory
-     - Pyinstaller builds the application in the directory where the script resides
 2. Download and install Python3 to your Windows host
    - This can be done via the Microsoft store, or the Python <a href="https://www.python.org/downloads/">downloads</a> page.
 3. Download and install Pyinstaller via PIP
