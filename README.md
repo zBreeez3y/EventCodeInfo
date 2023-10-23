@@ -25,6 +25,6 @@ I intended the script to be turned into either an Application (macOS) or an Exec
 2. Open the script with the Script Editor application
 3. Select File->Export
 4. Change the file format from "Script" to "Application" and save the file
-5. Control-click the ".app" file and add to dock
+5. Drag and drop the ".app" file to dock
 #### Note
 You can also use the Python3 version on macOS. I installed Homebrew and reinstalled Python3 through that which uses a version of the Tkinter module that works correctly on macOS. 
