@@ -1,7 +1,7 @@
 # Change Log
 Change log for EventCodeInfo
 
-## Release Notes
+## v1.1
 Release notes for version 1.1 of EventCodesInfo
 
 ### Change Log
