@@ -15,9 +15,7 @@ I intended the script to be turned into either an Application (macOS) or an Exec
 3. Download and install Pyinstaller via PIP
    -     python3 -m pip install pyinstaller
 4.  Run Pyinstaller and provide the EventCodeInfo script as the argument
-    -     pyinstaller eventcodes.pyw
-    - If you receive a "command not found" error, ensure you have the PyInstaller binaries path added to your %PATH%. To find the binaries path, you can type the following into CMD:
-      -     where pyinstaller.exe
+    -     python3 -m pyinstaller eventcodes.pyw
 5. The EventCodes exectuable will be in the "\dist\eventcodes\" directory that's created from running PyInstaller. Find "eventcodes.exe", right-click and select "Pin to taskbar" 
 
 ### macOS
